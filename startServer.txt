@@ -1,0 +1,5 @@
+To start the server:
+
+$ python3 -m http.server
+
+Do not forget to get the server ip address (not localhost, but ifconfig) and place as the server ip in the code
